@@ -1,2 +1,2 @@
 # Feature-engineering-outlier-removal-using-percentile
-I removed outliers from the dataset using percentile-based thresholds to improve the accuracy and reliability of subsequent analyses and modeling.
+I removed outliers from the dataset using percentile-based methods, which involve setting thresholds based on the distribution of each feature. This approach identifies data points lying beyond a specified percentile range, typically at the extremes of the distribution, and excludes them from further analysis. By applying percentile-based outlier removal, I aimed to improve the reliability and accuracy of subsequent statistical analyses and machine learning models, ensuring that extreme values did not distort the interpretation or predictions derived from the data.
